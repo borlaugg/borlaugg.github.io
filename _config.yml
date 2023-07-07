@@ -21,7 +21,7 @@ author: Rishabh
 
 navbar-links:
   About Me: "aboutme"
-  My Work: ""
+  My Work: "mywork"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
