@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Since you clicked to know more about me
 show-avatar: false
+cover-img: "/assets/IMG_20230522_144711_816.jpg"
 ---
 
 Hi! My name is Rishabh.                                     
