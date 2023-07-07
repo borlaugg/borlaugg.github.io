@@ -7,7 +7,7 @@ show-avatar: false
 
 Hi! My name is Rishabh.                                     
 I'm an undergrad at Indian Institute of Technology Bombay, pursuing a B.Tech degree in the department of Electrical Engineering.             
-I love playing football and play for my university, although I don't really watch much of it, but I do enjoy watching murder mystery movies/documentaries.
+I love playing football and play for my university, although I don't really watch much of it. However, I do enjoy watching murder mystery movies/documentaries.
 
 
 If you're wondering 'why borluagg?' you are right in asking so                              
