@@ -2,7 +2,6 @@
 layout: page
 title: About me
 subtitle: Since you clicked to know more about me
-show-avatar: false
 ---
 <p align="center">
 <img src="https://github.com/borlaugg/borlaugg.github.io/assets/81488614/9975ae0a-bd46-4c92-9829-45284d1c79f2" alt="drawing" width="150"/>                  
