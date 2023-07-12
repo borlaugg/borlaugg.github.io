@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Publication
+title: My Publications
 ---
 
-I, unfortunately, have no publications yet :(
+I have no publications yet :(
