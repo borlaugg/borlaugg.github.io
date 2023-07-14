@@ -12,5 +12,5 @@ I'm an undergrad at Indian Institute of Technology Bombay, pursuing a B.Tech deg
 I love playing football and play for my university, although I don't really watch much of it. However, I do enjoy watching murder mystery movies/documentaries.
 
 
-If you're wondering 'why borluagg?' you are right in asking so                              
-Honestly, I have no idea why younger me chose to use it. People keep asking me about it and has since has worked as an excellent conversation starter :)
+If you're wondering 'why Borlaugg?' you are right in asking so                              
+Honestly, I have no idea why younger me chose to use it. People keep asking me about it and has since worked as an excellent conversation starter :)
