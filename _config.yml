@@ -128,7 +128,7 @@ navbar-var-length: true
 navbar-col: "#A8DADC"
 navbar-text-col: "#455054"
 navbar-border-col: "#DDDDDD"
-page-col: "#F1FAEE"
+page-col: "#FFFFFF"
 text-col: "#455054"
 link-col: "#A8DADC"
 hover-col: "#308695"
