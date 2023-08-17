@@ -8,9 +8,9 @@ subtitle: Since you clicked to know more about me
 </p>-->
   
 Hi! My name is Rishabh.                             
-I'm an undergrad at Indian Institute of Technology Bombay, pursuing a B.Tech degree in the department of Electrical Engineering.             
-I love playing football and play for my university, although I don't really watch much of it. However, I do enjoy watching murder mystery movies/documentaries.
+I'm an undergrad at Indian Institute of Technology Bombay, pursuing a Dual Degree in the Department of Electrical Engineering.             
+I love playing football and playing for my university, although I don't watch much of it. However, I do enjoy watching murder mystery movies/documentaries.
 
 
-If you're wondering 'why Borlaugg?' you are right in asking so                              
-Honestly, I have no idea why younger me chose to use it. People keep asking me about it and has since worked as an excellent conversation starter :)
+If you're wondering 'Why Borlaugg?' you are right in asking so                              
+Honestly, I do no know why the younger me used it. People keep asking me about it, and it has since worked as an excellent conversation starter :)
