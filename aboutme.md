@@ -13,4 +13,4 @@ I love playing football and playing for my university, although I don't watch mu
 
 
 If you're wondering 'Why Borlaugg?' you are right in asking so                              
-Honestly, I do no know why the younger me used it. People keep asking me about it, and it has since worked as an excellent conversation starter :)
+Honestly, I do not know why the younger me used it. People keep asking me about it, and it has since worked as an excellent conversation starter :)
