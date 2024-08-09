@@ -21,8 +21,9 @@ author: Rishabh
 
 navbar-links:
   About Me: "aboutme"
-  My Work: "mywork"
-  #Publications: "publications"
+  #My Work: "mywork"
+  Publications: "publications"
+  New Website: "https://borlaugg.github.io/portfolio/"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
