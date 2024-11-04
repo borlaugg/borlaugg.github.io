@@ -20,5 +20,11 @@ The problem asks us to devise a mechanism to map the path/terrain droid tracks r
 Received recognition for outstanding performance and achieving top rankings among a competitive field of projects. This project was ranked among the top 3 projects out of 60+ projects.
 The complete report can be found [here](/assets/EDL_DESIGN.pdf).
 
+## Superscalar Out of Order Processor
+
+
+## RISC Pipelined Processor
+Building on the Multistage processor, I built a 6 stage pipelined processor in VHDL. To tackle the pipelining hazards I developed a branch predictor, data forwarding unit and a hazard unit to detect data dependancies. I evaluated the design once again by running RTL simulation and Gatelevel simulations. This processor achieved a peak performance of 1.94 cycle/instruction. The repository containing the code can be found [here](https://github.com/borlaugg/RISC-processor-with-pipelining.git). Having developed a pipelined processor, we expanded it to a 2-way fetch superscalar processor handling out-of-order execution. The repository can be found [here](https://github.com/borlaugg/OoO.git)
+
 ## RISC Multistage Processor
-I developed a Multistage Reduced Instruction Set Computer, enitrely on VHDL. We evaluated the design by running RTL simulation and Gatelevel simulations. The design can be found [here](https://github.com/borlaugg/Multistage-Processor/blob/4c2cf56df1689e0abbcdafab8be9c9def99544c4/Project1-RISC-Processor-Design.pdf)
+I developed a Multistage Reduced Instruction Set Computer, enitrely in VHDL. We evaluated the design by running RTL simulation and Gatelevel simulations. The design can be found [here](https://github.com/borlaugg/Multistage-Processor/blob/4c2cf56df1689e0abbcdafab8be9c9def99544c4/Project1-RISC-Processor-Design.pdf)
