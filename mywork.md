@@ -5,7 +5,7 @@ title: My Work
 
 Hi! Sorry I haven't updated this; here's my [CV](/assets/CV.pdf) instead
 
-
+### Past Projects
 
 ## Cache Security From Side Channel Attacks
 Studied the vulnerabilities of shared cache and attacks like Flush+Reload, and Prime+Probe. Replicated the work of PASS-P, an algorithm that mitigates the threat of such hardware attacks. Implemented a modified PASS-P algorithm by introducing a more effective and dynamic insertion policy -DAAIP. The detailed report can be found [here](/assets/Rishabh_200260041_RnD_report.pdf).
@@ -20,3 +20,5 @@ The problem asks us to devise a mechanism to map the path/terrain droid tracks r
 Received recognition for outstanding performance and achieving top rankings among a competitive field of projects. This project was ranked among the top 3 projects out of 60+ projects.
 The complete report can be found [here](/assets/EDL_DESIGN.pdf).
 
+## RISC Multistage Processor
+I developed a Multistage Reduced Instruction Set Computer, enitrely on VHDL. We evaluated the design by running RTL simulation and Gatelevel simulations. The design can be found [here](https://github.com/borlaugg/Multistage-Processor/blob/4c2cf56df1689e0abbcdafab8be9c9def99544c4/Project1-RISC-Processor-Design.pdf)
