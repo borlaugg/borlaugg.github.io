@@ -12,14 +12,20 @@ Hi! Sorry I haven't updated this; here's my [CV](/assets/CV.pdf) instead
 # Past Projects
 
 ## Accelerating Ray Tracing
+Parallelized a RayTracing algorithm using OpenMP and CUDA, achieving a speedup of 7x. Additionally, performed a comparative study on OpenMP and CUDA and quantized their overheads.
+
+The complete report can be found [here](/assets/RAY-tracing.pdf).
 
 ## SCAM: Secure Shared Cache Partitioning Scheme
 
-## Subsampling of Correlated Graph Signals
+## Subsampling of Correlated Graph Signals [arXiv](https://arxiv.org/abs/2409.04107)
+Devised an algorithm to approximate correlated graph signals into a lower-dimensional space using low-rank approximations that allowed for spatial signal subsampling and reconstruction. Proved that the reconstruction error for deleting two or more nodes was dependent on the nature of the graph and had perfect reconstruction for the deletion of just one node. 
 
 ## A Review of Commercial Accelerator Architectures
 
 ## tinyVTA: FPGA-based Accelerator for Neural Networks
+Implemented an accelerator for floating point operations such as block matrix-multiply-accumulate and activation function of DNN inference to an FPGA. Also verified the correctness by testing against the MNIST dataset using a large, fully connected model on the Xilinx ZCU104 FPGA and observing consistent results across all 128 test examples
+The complete report can be found [here](/assets/tinyVTA.pdf).
 
 ## Reproducing the results of R3DLA on GEM5
 
@@ -34,6 +40,10 @@ Received recognition for outstanding performance and achieving top rankings amon
 The complete report can be found [here](/assets/EDL_DESIGN.pdf).
 
 ## Model based Embedded System Design
+<iframe width="420" height="315"
+src="https://youtu.be/cV9TXogiC-Q?si=2-NPatm6W1hWwH2e">
+</iframe>
+We developed an embedded system using model-based design for autonomous valet-parking. It also included an algorithm for line following, track color inversion, and parking-space identification
 
 
 ## RISC Pipelined Processor
