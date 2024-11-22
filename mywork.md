@@ -18,10 +18,11 @@ The complete report can be found [here](/assets/RAY-tracing.pdf).
 
 ## SCAM: Secure Shared Cache Partitioning Scheme
 
-## Subsampling of Correlated Graph Signals [arXiv](https://arxiv.org/abs/2409.04107)
+##  [Subsampling of Correlated Graph Signals](https://arxiv.org/abs/2409.04107)
 Devised an algorithm to approximate correlated graph signals into a lower-dimensional space using low-rank approximations that allowed for spatial signal subsampling and reconstruction. Proved that the reconstruction error for deleting two or more nodes was dependent on the nature of the graph and had perfect reconstruction for the deletion of just one node. 
 
 ## A Review of Commercial Accelerator Architectures
+Explored literature by NVIDIA, Google, Intel, and Groq on hardware accelerators for applications in data center chips and cards and performed a comparative study on peak performance. Inferred that developing application-specific hardware, implementing memory slicing, and having larger caches and faster interconnects were key for high-performance. The complete report can be found [here](/assets/SRE.pdf).
 
 ## tinyVTA: FPGA-based Accelerator for Neural Networks
 Implemented an accelerator for floating point operations such as block matrix-multiply-accumulate and activation function of DNN inference to an FPGA. Also verified the correctness by testing against the MNIST dataset using a large, fully connected model on the Xilinx ZCU104 FPGA and observing consistent results across all 128 test examples
