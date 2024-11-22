@@ -3,7 +3,7 @@ layout: page
 title: My Work
 ---
 
-Hi! Sorry I haven't updated this; here's my [CV](/assets/CV.pdf) instead
+Hi! Find the latest work on my [CV](/assets/CV.pdf) 
 
 # Ongoing Projects
 
