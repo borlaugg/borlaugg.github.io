@@ -40,7 +40,9 @@ Received recognition for outstanding performance and achieving top rankings amon
 The complete report can be found [here](/assets/EDL_DESIGN.pdf).
 
 ## Model based Embedded System Design
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cV9TXogiC-Q?si=dx-bAtAr1WJF_JSZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 We developed an embedded system using model-based design for autonomous valet-parking. It also included an algorithm for line following, track color inversion, and parking-space identification
 
 
