@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "MA 207 Partial Differential Equations"
+instructor: "AAA"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: 
+venue: "Department of Mathematics, IIT Bombay"
+date: 2022-01-01
+location: "Mumbai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

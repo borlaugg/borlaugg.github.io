@@ -1,5 +1,5 @@
 ---
-title: "MA 205 Complex Analysis"
+title: "MA 111 Integral Calculus"
 collection: teaching
 type: "Undergraduate course"
 permalink: 

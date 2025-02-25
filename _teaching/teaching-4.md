@@ -1,5 +1,5 @@
 ---
-title: "MA 205 Complex Analysis"
+title: " MA 106 Linear Algebra"
 collection: teaching
 type: "Undergraduate course"
 permalink: 
