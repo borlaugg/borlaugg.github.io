@@ -22,7 +22,7 @@ repository               : "borlaugg/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Rishabh Ravi"
   pronouns         : # example: "she/her"  
   bio              : "Final year student at Indian Institute of Technology Bombay"
