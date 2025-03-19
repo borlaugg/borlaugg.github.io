@@ -1,11 +1,12 @@
 ---
 title: "SCAM: Secure shared cache partitioning scheme to enhance throughput of CMPs"
 collection: publications
-category: Preprints
+category: conferences
 permalink: 
 excerpt: ''
 date: 2025-05-11
 venue: 'SECRYPT'
+type: Accepted
 paperurl: 
 citation: 'Varun Venkitaraman, <b>Rishabh Ravi</b>, Tejeshwar Bhagatsing Thorawade, Nirmal Kumar Boran, Virendra Singh ; International Conference on Security and Cryptography (SECRYPT) 2025, Bilbao, Spain, Jun 2025'
 ---

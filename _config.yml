@@ -85,8 +85,8 @@ publication_category:
     title: 'Conference Papers'
   Workshops and Presentations:
     title: 'Workshops and Presentations'
-  # Preprints:
-  #   title: 'Preprints'
+  Preprints:
+    title: 'Preprints'
   
 
 # Site Settings
