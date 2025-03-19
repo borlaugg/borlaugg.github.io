@@ -3,7 +3,7 @@ title: "SCAM: Secure shared cache partitioning scheme to enhance throughput of C
 collection: publications
 category: conferences
 permalink: 
-excerpt: '<b> Accepted <\b>'
+excerpt: ''
 date: 2025-05-11
 venue: 'SECRYPT'
 type: Accepted
