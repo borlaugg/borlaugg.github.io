@@ -3,7 +3,7 @@ title: "Hardware vs. Software Implementation of Warp-Level Features in Vortex RI
 collection: publications
 category: Workshops and Presentations
 permalink: 
-excerpt: ''
+excerpt: 
 date: 2025-04-01
 venue: 'W05 OSSMPIC - DATE'
 type: Accepted
