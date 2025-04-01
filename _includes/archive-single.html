@@ -55,15 +55,15 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl %}
-      <p> {{ post.citation }}<br /><a href="{{ post.paperurl }}"><img src="{{"/assets/pdf.jpg" | prepend: base_path }}" width="10" height="10" /></a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p> {{ post.citation }}<br /><a href="{{ post.paperurl }}"><img src="{{"/assets/pdf.jpg" | prepend: base_path }}" width="100" height="100" /></a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
-      <p> {{ post.citation }}<br /><a href="{{ post.paperurl }}"><img src="{{"/assets/pdf.jpg" | prepend: base_path }}" width="10" height="10" /></a></p>
+      <p> {{ post.citation }}<br /><a href="{{ post.paperurl }}"><img src="{{"/assets/pdf.jpg" | prepend: base_path }}" width="100" height="100" /></a></p>
     {% elsif post.citation and post.slidesurl %}
       <p> {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation %}
       <p> {{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} "><img src="{{"/assets/pdf.jpg" | prepend: base_path }}" width="10" height="10" /></a></p>
+      <p><a href=" {{ post.paperurl }} "><img src="{{"/assets/pdf.jpg" | prepend: base_path }}" width="100" height="100" /></a></p>
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
