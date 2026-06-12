@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-05-11
 venue: 'SECRYPT'
 type: Published
-paperurl: 
+paperurl: https://www.scitepress.org/PublishedPapers/2025/135187/
 citation: 'Varun Venkitaraman, <b>Rishabh Ravi</b>, Tejeshwar Bhagatsing Thorawade, Nirmal Kumar Boran, Virendra Singh; International Conference on Security and Cryptography (SECRYPT) 2025, Bilbao, Spain, Jun 2025'
 ---
 
